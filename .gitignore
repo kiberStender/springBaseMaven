@@ -1,3 +1,7 @@
+/target
+/dependency-reduced-pom.xml
+/.idea
+/gs-maven.iml
 *.class
 
 # Mobile Tools for Java (J2ME)
